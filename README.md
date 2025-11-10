@@ -103,3 +103,4 @@ By the end of this series, I aim to:
 To run any file:
 ```bash
 python filename.py
+java filename.java
